@@ -1,7 +1,8 @@
 # bauh_installer
 
 <center>
-<img src=./files/Bauh-logo.png/>ç
+<img src=./files/Bauh-logo.png/>
+<pre>
 -The installer does't work properly? Contact us: fenixlinux.com
 -You can uninstall Bauh, the Snap Store and Gnome-Software launching this again.
 -Description: 
@@ -11,5 +12,6 @@ A management panel where you can: search, install, uninstall, upgrade, downgrade
 Tray mode: it launches attached to the system tray and publishes notifications when there are software updates available
 System backup: it integrates with Timeshift to provide a simple and safe backup process before applying changes to your system
 Custom themes: it's possible to customize the tool's style/appearance. More at Custom themes.
+</pre>
 <img src=./files/FenixLinux-Bauh_installer.gif>
 </center>
